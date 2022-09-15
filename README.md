@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**RumeoLola/RumeoLola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I learn as I create and I create as I learn.**
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning python/ML and embedded systems (Ardiuno brogrammer)
