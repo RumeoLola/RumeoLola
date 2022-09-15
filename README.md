@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **RumeoLola/RumeoLola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on my skills
@@ -11,4 +10,3 @@
 - 📫 How to reach me: IG(tayo_baryon)
 - 😄 Pronouns: He, cause I will never be Him
 - ⚡ Fun fact: All spiders produce silk
--->
